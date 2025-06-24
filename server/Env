@@ -1,0 +1,16 @@
+
+3. **For Screenshot**:
+- Take app screenshot
+- Upload to `/client/public/screenshot.png`
+- Reference it in README.md
+
+---
+
+### **Key Features Demonstrated**
+- ✅ Basic Express API
+- ✅ React frontend fetch
+- ✅ MongoDB connection
+- ✅ Kenyan agricultural context
+- ✅ Minimal file structure
+
+This meets core requirements while being phone-friendly. Would you like me to add any specific Western Kenya-related functionality?
